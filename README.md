@@ -1,6 +1,8 @@
 # Cure-O-Matic
 This is an arduino based DIY curing station for 3D SLA Resin prints.
 
+![Curing Station](images/curing_station_anim.gif)
+
 The user can set the timer through the LCD Keypad Shield. The station has a rotating turntable and 405nm UV Leds to evenly post-cure the placed model.
 
 <img src="https://github.com/tolgaozuygur/cure-o-matic/blob/master/images/20200504_034442.jpg" title="Cure-O-Matic" alt="Cure-O-Matic" width="500">
