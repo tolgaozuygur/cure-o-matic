@@ -31,7 +31,7 @@ The user can set the timer through the LCD Keypad Shield. The station has a rota
 
 <img src="https://github.com/tolgaozuygur/cure-o-matic/blob/master/images/uv_curing_station_circuit_bb.jpg" title="Circuit Diagram" alt="Circuit Diagram">
 
--You need to disassemble the bread box and stick the LED strips to the case, ensure they are shaped like an arc in order to cure the model efficiently. Cut and solder the led strip based on the size/shape of your bread box.
+-You need to disassemble the bread box and stick the LED strips to the case, ensure they are shaped like an arc in order to cure the model efficiently. Cut and solder the led strip based on the size/shape of your bread box. I recommend you to add a slightly wider double-sided tape behind the led strip to avoid any direct contact with the metal (and conductive :) ) box.
 
 -Drill some holes to place the gear motor and the rotating platform in the middle of the box. Drill the screw holes on the top of the box to place the control box. 
 
